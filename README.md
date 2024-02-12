@@ -12,5 +12,6 @@ Different graphs are use to represent the data are:
 * Line graph
 * Labels
 * Pie chart
+  
 and many more
 Measures and DAX queries are written for the same.
